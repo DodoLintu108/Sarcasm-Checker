@@ -7,9 +7,9 @@ Sarcasm Checker Bot is a Discord bot designed to detect sarcasm in messages usin
 ## Features
 
 - Detect sarcasm in Discord messages.
-- Mark messages as sarcastic with the `!Sarcasm` command.
+- Mark messages as sarcastic with the `!sarcasm` command.
 - Collect user feedback through reactions to improve the model.
-- Evaluate model accuracy with the `!Evaluate` command.
+- Evaluate model accuracy with the `!evaluate` command.
 - List available commands with the `!commands` command.
 
 ## Setup
@@ -38,9 +38,9 @@ Sarcasm Checker Bot is a Discord bot designed to detect sarcasm in messages usin
 ## Usage
 
 - Add the bot to your Discord server.
-- Use `!Sarcasm` to mark a message as sarcastic.
+- Use `!sarcasm` to mark a message as sarcastic.
 - React with 👍 or 👎 to provide feedback on the bot's sarcasm detection.
-- Use `!Evaluate` to evaluate the model's accuracy.
+- Use `!evaluate` to evaluate the model's accuracy.
 - Use `!commands` to list all available commands.
 
 ## Files
